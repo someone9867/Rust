@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+width: 530.75px;
+}
+
+a{ 
+border:1px solid #01FF76;
+width: 77px;
+height: 28px;
+left: 379px;
+top: 20px;
+text-decoration: none;
+background: #01FF76;
+color: black;
+margin: 35px;
+margin-top:50px ;
+}
+
+
+h1{
+font-size: 30px;
+text-align: center;
+color: #000000;
+}
+img{
+width: 530.75px;
+height: 301.17px;
+}
+
+p{
+   width: 530.75px; 
+}
+
+nav{
+    background-color:white ;
+}
+
+main{
+    background-color: blue;
+}
+
+footer{
+    background-color: white;
+height: 50px;
+}
